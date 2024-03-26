@@ -36,6 +36,11 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+### DESIGN:
+![ex02 v1](https://github.com/SriVignesh-G/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147576510/93f7a5bb-71a9-42a3-890e-bd1fa56bec4e)
+
+
+ ### SHEET:
  ![ex1 2 final_page-0001](https://github.com/SriVignesh-G/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147576510/cc969487-e368-48fb-970b-2e85ea06af07)
 
  
